@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activities.MainActivity">
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/search_image"
+        android:orderInCategory="100"
+        android:title="@string/action_search"
+        android:visible="false"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_erroneous_parking"
+        android:icon="@drawable/error_image"
+        android:orderInCategory="100"
+        android:title="@string/erroneous_parkings"
+        app:showAsAction="always" />
+</menu>

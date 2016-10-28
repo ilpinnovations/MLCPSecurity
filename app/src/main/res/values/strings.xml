@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MLCP</string>
+    <string name="action_search">Search</string>
+    <string name="mark_as_free">Mark current level as free</string>
+    <string name="erroneous_parkings">Incorrect Parkings</string>
+    <string name="vehicle_num">Vehicle Number</string>
+    <string name="level">Please enter the level where vechicle is currently parked</string>
+</resources>
